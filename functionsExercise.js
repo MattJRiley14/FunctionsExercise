@@ -152,6 +152,7 @@ function caps(string){
   }
   return str;
 }
+
 // OR
 /*
 function caps(string){
